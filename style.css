@@ -12,3 +12,11 @@ body {
     background-image:url('America.png');
     background-repeat:no-repeat;
 }
+
+#startVote{
+    width:200px; 
+    height:200px; 
+    position:absolute; 
+    right:0px;
+    cursor:pointer;"
+}

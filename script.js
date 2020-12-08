@@ -10,9 +10,6 @@ function changeImage()
 {
     document.getElementById("startVote").src="vote-done.png";
 }
-
 function start()
 {
-	var Trump = document.getElementById("Trump");
-	var Biden = document.getElementById("Biden");
 }
