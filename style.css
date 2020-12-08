@@ -1,0 +1,12 @@
+/*
+Great Race
+Author: Levi Maasen
+Date:   12-8-2020
+   
+Filename: style.css
+*/
+
+html {
+	background: url("img/america.png")100%/cover fixed;
+	overflow:auto;
+}
