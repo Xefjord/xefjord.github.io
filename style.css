@@ -7,5 +7,8 @@ Filename: style.css
 */
 
 html {
-	background: url("img/America.png")100%/cover fixed;
+	background: url("img/America.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	overflow:auto;
 }
