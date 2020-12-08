@@ -9,9 +9,8 @@ Filename: style.css
 */
 
 body {
-	background:#000000;
 	background: url("img/America.png");
-	background-size: 100%;
+	float: none;
+	margin: 0px auto;
 	background-repeat: no-repeat;
-	overflow:auto;
 }
