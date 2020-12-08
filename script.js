@@ -6,7 +6,11 @@
 	Filename: script.js
 */
 
+var Trump = document.getElementById("Trump");
+var Biden = document.getElementById("Biden");
+var startVote = document.getElementById("startVote");
+
 function changeImage()
 {
-    document.getElementById("startVote").src="vote-done.png";
+    startVote.src="vote-done.png";
 }
