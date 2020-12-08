@@ -10,7 +10,7 @@ var Trump = document.getElementById("Trump");
 var Biden = document.getElementById("Biden");
 var startVote = document.getElementById("startVote");
 
-function changeImage()
+function start()
 {
     startVote.src="vote-done.png";
 }
