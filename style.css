@@ -7,6 +7,6 @@ Filename: style.css
 */
 
 html {
-	background: url("img/america.png")100%/cover fixed;
+	background: url("img/America.png")100%/cover fixed;
 	overflow:auto;
 }
