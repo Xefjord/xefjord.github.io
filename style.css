@@ -12,3 +12,25 @@ body {
     background-image:url('America.png');
     background-repeat:no-repeat;
 }
+
+#startVote {
+	width:200px; 
+	height:200px; 
+	position:absolute; 
+	right:0px;
+	cursor:pointer;
+}
+
+#Trump {
+	width:100px; 
+	height:100px; 
+	position:absolute; 
+	top:100px;
+}
+
+#Biden {
+	width:100px; 
+	height:100px; 
+	position:absolute; 
+	top:250px;
+}

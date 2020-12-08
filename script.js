@@ -8,7 +8,7 @@
 
 var Trump = document.getElementById("Trump");
 var Biden = document.getElementById("Biden");
-var Vote = document.getElementById("Vote");
+var Vote = document.getElementById("startVote");
 
 function changeImage()
 {
