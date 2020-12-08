@@ -6,7 +6,7 @@
 	Filename: script.js
 */
 
-function start()
+function changeImage()
 {
-	document.getElementById("startVote").src="vote-done.png"
+    document.getElementById("startVote").src="vote-done.png"
 }
